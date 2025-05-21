@@ -1,5 +1,11 @@
 <h1>Hi, I'm Robert! <br/><a href="https://github.com/joshmadakor1">Software Engineeer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">UI Designer</a>, <a href="https://www.youtube.com/c/joshmadakor">CPUT Student</a></h1>
 
+<h2>👨‍💻 About Me:</h2>
+
+-ecyebwicbibvbirygwbcibwebiwebybbe
+
+<h2>👨‍💻 Certifications:</h2>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
