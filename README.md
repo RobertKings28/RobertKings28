@@ -6,34 +6,62 @@ Right now, I’m grinding my way toward becoming a full-fledged Software Enginee
 I’m all about building solutions that matter—whether it’s a slick mobile app, a clutch automation script, or just making tech work without the extra headache.
 
 ## Career Counselling
+
 ### Evidence
-![image](https://github.com/user-attachments/assets/08ec27f2-a77f-4c6c-900b-1e8f70ecbabc)
+![Career Assessment Results](https://github.com/user-attachments/assets/08ec27f2-a77f-4c6c-900b-1e8f70ecbabc)
+
 ### Career Counselling Reflection (STAR Technique)
-* SITUATION:
-As part of the Work Readiness Training Programme, I was introduced to the concept of a Career Development Plan, a structured approach to identifying, setting, and achieving career goals. This lesson required me to reflect deeply on who I am, what I value, and where I see myself in the future.
-* TASK:
-My task was to understand the distinction between a job and a career, identify my personal strengths, preferences, and values, and use that information to formulate a SMART career development plan. This included reflecting on what motivates me—such as job satisfaction, financial security, and social impact—and aligning these factors with a chosen career path.
-* ACTION:
-To better understand myself and clarify my goals, I took time to journal my strengths, interests, and values. I also asked close friends and family to share what they believe I’m good at and what makes me unique. I used a self-assessment worksheet provided during the lesson to map out what success looks like for me—both professionally and personally. I realized that fulfillment and impact are more important to me than status or fame, which helped me define a vision that aligns with my true self, not just what society expects.
-* RESULT:
-As a result of engaging with this section of the lesson, I now have a much clearer and more practical understanding of how to define robust career goals. I can differentiate between a vague desire and a truly actionable objective. This knowledge has equipped me with a powerful tool for planning my career path effectively, allowing me to break down large aspirations into concrete, trackable steps. I feel more confident that by applying the SMART framework, I can set goals that not only motivate me but also provide a clear path to achievement, reducing potential frustration and increasing the likelihood of success and personal fulfillment.
+
+**Situation**  
+During career readiness training, I learned to connect my personal strengths with professional goals through structured self-assessment exercises.
+
+**Task**  
+I needed to:
+- Distinguish between temporary jobs and meaningful careers
+- Identify my core strengths and values
+- Create a SMART career development plan
+
+**Action**  
+I:
+1. Documented my skills through journaling and peer feedback
+2. Used provided worksheets to prioritize fulfillment over status
+3. Set specific tech skill milestones (e.g., "Complete 3 Python projects by December")
+
+**Result**  
+Now I can:
+- Break big goals into achievable steps
+- Confidently evaluate career options
+- Stay motivated through value-aligned objectives
+
+---
 
 ## 🛠️ Skills and Interests
-###   Evidence
-![image](https://github.com/user-attachments/assets/556c8ba9-fd2c-4f94-b104-f91db60def5a)
+
+### Evidence
+![Skills Assessment](https://github.com/user-attachments/assets/556c8ba9-fd2c-4f94-b104-f91db60def5a)
 
 ### Skills and Interests Reflection (STAR Technique)
-* SITUATION:
-The "Skills and Interests" lesson opened by addressing the common feeling of dread some people experience about work, attributing it to a misalignment between their jobs and their personal values. This resonated with the idea that a job can feel pointless and stress-filled if it doesn't align with what you deeply care about. The lesson then introduced core values as highly personal principles that give meaning to both career and life.
 
-* TASK:
-My task was to understand what core values are, why it's critical to identify them, and how their alignment with one's career can lead to increased satisfaction and performance. I needed to grasp the "why" behind defining values, recognizing their role as an "internal compass" for decision-making and a foundation for pride, happiness, and fulfillment.
+**Situation**  
+The program showed how workplace dissatisfaction often comes from misaligned values.
 
-* ACTION:
-I thoroughly read the sections explaining "What are Core Values?" and "The Value of Values." I focused on the examples provided, such as a new parent valuing family time versus someone chasing financial freedom valuing a large paycheck. I paid particular attention to the four benefits listed for understanding values: making better career decisions, focusing energy, improving workplace engagement, and boosting job performance. I mentally considered how past work experiences (or even academic projects) either aligned or misaligned with certain values, and how that affected my own sense of satisfaction and effort. For instance, I thought about times when I felt pride from collaborative achievements (team-reliance) versus individual accomplishments (self-reliance), beginning to understand which value held more weight for me.
+**Task**  
+I needed to:
+- Define my core values
+- Understand how they guide decisions
+- Analyze past experiences through this lens
 
-* RESULT:
-As a result of this lesson, I gained a profound understanding of the critical role core values play in career satisfaction. I now recognize that simply finding a job that "looks good on paper" isn't enough; it must resonate with my internal compass to prevent burnout and foster genuine engagement. This knowledge empowers me to proactively assess potential roles and organizations against my own evolving values, ensuring that future career decisions are not just about income or title, but about finding a path that brings true meaning and fulfillment. The lesson has shifted my perspective on what makes a "good job" – it's one that allows me to live in alignment with what I hold most dear.
+**Action**  
+I:
+1. Studied example value conflicts (family time vs. high salary)
+2. Reviewed when I felt most/least engaged at work/school
+3. Ranked my top 5 values using assessment tools
+
+**Result**  
+I now:
+- Filter opportunities through my values
+- Can explain my work preferences clearly
+- Seek roles matching my autonomy/teamwork balance
 ---
 
 ## CV Submission
