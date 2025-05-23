@@ -89,11 +89,11 @@ I now:
 <h2>👨‍💻 Certifications/Awards:</h2>
 
 - <b>Certifications</b>
-  - [Higher Certificate in Information and Communication Technology](https://github.com/RobertKings28/Inkhwali-Yenkosi)
-  - [Certificate Of Completion Level Up Advanced SQL](https://github.com/RobertKings28/Inkhwali-Yenkosi)
-  - [Certificate Of Completion Blockchain Basics](https://github.com/RobertKings28/Inkhwali-Yenkosi)
-  - [Certificate Of Completion Learning GitHub](https://github.com/RobertKings28/Inkhwali-Yenkosi)
-  - [Certificate Of Completion Learning Git and GitHub 2021](https://github.com/RobertKings28/Inkhwali-Yenkosi)
+  - Higher Certificate in Information and Communication Technology
+  - Certificate Of Completion Level Up Advanced SQL
+  - Certificate Of Completion Blockchain Basics
+  - Certificate Of Completion Learning GitHub
+  - Certificate Of Completion Learning Git and GitHub 2021
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
